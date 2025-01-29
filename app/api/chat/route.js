@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server"
-
+ 
 export async function POST(req) {
   try {
     // Check if the request is multipart form data or JSON
